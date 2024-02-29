@@ -1,0 +1,159 @@
+
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:40px;
+	margin-right:40px;
+	margin-top:-52px;
+	/* margin-top:100px; */
+	font-size:14px;
+}
+
+a {
+	color:  #00FFFF;
+	text-decoration: none;
+}
+
+#a {
+	color: #0f0;
+}
+
+#c {
+	color: rgb(255, 145, 0);
+}
+
+#b {
+	color: #ff0096;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+#d{
+    color: yellow;
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
+.button {
+    padding-top: 50px;
+    padding-right: 100px;
+    width: 50px;
+    height: 75px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 1em;
+  /* red green background */
+  background: linear-gradient(to right, #fdfbfb, #807f7f);
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* -------------------------------------------BOX---------------------------------------------- */
+
+.topbar {
+  content: "";
+  margin: auto;
+  background-color: #696767;
+  height: 30px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+.buttons img {
+  width: 15px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.main {
+  margin: auto;
+  content: "";
+  height: 520px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.863);
+  backdrop-filter: blur(5px);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 10px;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #fdfbfb, #807f7f); /* Adjusted the gradient here */
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden; /* Prevents vertical scrolling */
+}
+
+.box {
+  width: 70%;
+  height: 50%;
+  /* Add any additional styling for the box here */
+}
+
+@media (max-width: 768px) {
+  .box {
+    width: 75%;
+    height: 75%;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    overflow: hidden; /* Hide scrollbar for overflow content */
+    background: none; /* Optional: removes the body background on small devices */
+  }
+
+  .box {
+    width: 100%; /* 100% of the viewport width */
+    height: 100%; /* 100% of the viewport height */
+    margin: 0; /* Reset any margins */
+    border-radius: 0; /* Remove border radius if there's any */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+  .topbar{
+    width: 100%;
+  }
+
+
+  /* Adjust any other elements within your .box as needed to ensure they fill the available space */
+}
+
+
