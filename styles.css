@@ -130,8 +130,11 @@ body {
 
 @media (max-width: 768px) {
   .box {
-    width: 75%;
-    height: 75%;
+    width: 100%; /* 100% of the viewport width */
+    height: 100%; /* 100% of the viewport height */
+    margin: 0; /* Reset any margins */
+    border-radius: 0; /* Remove border radius if there's any */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
   }
 }
 
