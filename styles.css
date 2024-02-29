@@ -95,7 +95,7 @@ body {
 .main {
   margin: auto;
   content: "";
-  height: 520px;
+  height: 60%;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   background-color: rgba(0, 0, 0, 0.863);
@@ -122,16 +122,12 @@ body {
   overflow: hidden; /* Prevents vertical scrolling */
 }
 
-.box {
-  width: 70%;
-  height: 50%;
-  /* Add any additional styling for the box here */
-}
 
-@media (max-width: 812px) {
+@media (max-width: 900px) {
   .box {
-    width: 100%; /* 100% of the viewport width */
-    height: 100%; /* 100% of the viewport height */
+     display: block;
+    width: auto;
+    height: auto;
     margin: 0; /* Reset any margins */
     border-radius: 0; /* Remove border radius if there's any */
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
@@ -141,24 +137,33 @@ body {
     margin: none;
     width: 100%;
     height: 100%
+  }
+
+  .main{
+    width: auto;
+    height: 100%;
+  }
+
+  
+  #console{
+    width: 100%;
+    height: 100%;
   }
 }
 
 @media (max-width: 480px) {
   body {
+    display: block;
     overflow: hidden; /* Hide scrollbar for overflow content */
     background: none; /* Optional: removes the body background on small devices */
   }
 
-  .box {
+    .box {
     width: 100%; /* 100% of the viewport width */
     height: 100%; /* 100% of the viewport height */
     margin: 0; /* Reset any margins */
     border-radius: 0; /* Remove border radius if there's any */
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
-  }
-  .topbar{
-    width: 100%;
   }
 
   #console{
@@ -167,6 +172,16 @@ body {
     height: 100%
   }
 
+  .main{
+    margin: 0;
+    height: 100vh;
+    width: 10vh;
+  }
+
+  #console{
+    width: 100%;
+    height: 100%;
+  }
 
   /* Adjust any other elements within your .box as needed to ensure they fill the available space */
 }
