@@ -5,7 +5,7 @@
 Furrukh Tanveer
 Computer Science <span id="c">@Toronto Metropolitan University</span>
 
-I’m a fourth year <span id="c">Computer Science </span>studeent at <span id="c">Toronto Metropolitan University</span> with a passion for Software Engineering and developing technological tools to innovate the world.
+I’m a fourth year <span id="c">Computer Science </span>student at <span id="c">Toronto Metropolitan University</span> with a passion for Software Engineering and developing technological tools to innovate the world.
 
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat experience.txt
 - Developing full stack solutions at <span id="b">Ontario Ministry of Treasury Board Secreteriat</span>
