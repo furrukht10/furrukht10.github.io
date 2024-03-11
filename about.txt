@@ -10,7 +10,7 @@ I’m a fourth year <span id="c">Computer Science </span>student at <span id="c"
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat experience.txt
 - Developing full stack solutions at <span id="b">Ontario Ministry of Treasury Board Secreteriat</span>
 - Engineering supply chain microservices at <span id="b">Loblaw Companies Limited</span>
-- Performing data analysis and reearch at <span id="b">Builder Lynx</span>
+- Performing data analysis and research at <span id="b">Builder Lynx</span>
 
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat skills.txt
 </span><span id="c">Languages: </span>Java, Python, JavaScript, SQL, C, C++, C#, HTML, CSS, Bash, GoLang, PHP, TypeScript
@@ -21,7 +21,7 @@ I’m a fourth year <span id="c">Computer Science </span>student at <span id="c"
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat contact.txt
 Github: <a href="https://github.com/furrukht10" class="a">furrukht10</a>
 LinkedIn: <a href="https://www.linkedin.com/in/furrukhtanveer/" class="a">furrukhtanveer</a>
-Email: <a href="mailto:muhammadfurrukh.tanv@torntomu.ca" class="a">muhammadfurrukh.tanv@torntomu.ca</a>
+Email: <a href="mailto:muhammadfurrukh.tanv@torontomu.ca" class="a">muhammadfurrukh.tanv@torntomu.ca</a>
 
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat Documents.txt
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$  <a href="http://www.furrukhtanveer.net/assets/Resume.pdf" id="d" style="font-weight: bold; text-decoration:underline" >View Resume</a>
