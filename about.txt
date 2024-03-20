@@ -1,44 +1,27 @@
-<h1 align="center">Hi there, I'm Furrukh Tanveer 👋</h1>
-
-<p align="center">
-  <em>
-    Fourth-Year Computer Science Student at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a> 🎓<br>
-    Passionate Software Engineer 🚀
-  </em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
-</p>
-
----
-
-I am a dedicated Computer Science student with a strong interest in Software Engineering, constantly seeking to innovate and create impactful technological solutions. My academic and project experiences have endowed me with a solid foundation in various programming languages and frameworks, along with a deep understanding of modern software development practices and tools.
 
 
-### 💼 Technical Proficiencies:
 
-#### Languages:
-`Java` `Python` `JavaScript` `SQL` `C` `C++` `C#` `HTML` `CSS` `Bash` `GoLang` `PHP` `TypeScript`
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat introduction.txt
+Furrukh Tanveer
+Computer Science <span id="c">@Toronto Metropolitan University</span>
 
-#### Frameworks:
-`Spring Boot` `.NET` `Node.js` `Express.js` `React.js` `Angular.js` `Vue.js` `Flask`
+I’m a fourth-year <span id="c">Computer Science </span>student at <span id="c">Toronto Metropolitan University</span> with a passion for Software Engineering and developing technological tools to innovate the world.
 
-#### Tools:
-`Git` `Jenkins` `Openshift` `Powershell` `Batch` `Docker` `Selenium` `Datadog` `GraphQL` `Confluence` `JIRA`
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat experience.txt
+- Developing full stack solutions at <span id="b">Ontario Ministry of Treasury Board Secreteriat</span>
+- Engineering supply chain microservices at <span id="b">Loblaw Companies Limited</span>
+- Performing data analysis and research at <span id="b">Builder Lynx</span>
 
-#### Technologies:
-`Kubernetes` `OracleDB` `MongoDB` `MySQL` `PostgreSQL` `GCP` `AWS` `Azure`
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat skills.txt
+</span><span id="c">Languages: </span>Java, Python, JavaScript, SQL, C, C++, C#, HTML, CSS, Bash, GoLang, PHP, TypeScript
+</span><span id="c">Frameworks: </span>Spring Boot, .NET, Node.js, Express.js, React.js, Angular.js, Vue.js, Flask
+</span><span id="c">Tools: </span>Git, Jenkins, Openshift, Powershell, Batch, Docker, Selenium, Datadog, GraphQL, Confluence, JIRA
+</span><span id="c">Technologies: </span>Kubernetes, OracleDB, MongoDB, MySQL, PostgreSQL, GCP, AWS, Azure
 
-### 📈 GitHub Stats:
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat contact.txt
+Github: <a href="https://github.com/furrukht10" class="a">furrukht10</a>
+LinkedIn: <a href="https://www.linkedin.com/in/furrukhtanveer/" class="a">furrukhtanveer</a>
+Email: <a href="mailto:muhammadfurrukh.tanv@torontomu.ca" class="a">muhammadfurrukh.tanv@torntomu.ca</a>
 
-![Furrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-### 📫 How to reach me:
-
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/furrukhtanveer)
-- Send me an [email](furrukht10@gmail.com) for collaborations or any inquiries
-
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat Documents.txt
+<span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$  <a href="http://www.furrukhtanveer.net/assets/Resume.pdf" id="d" style="font-weight: bold; text-decoration:underline" >View Resume</a>
