@@ -8,6 +8,7 @@ Computer Science <span id="c">@Toronto Metropolitan University</span>
 I’m a fourth-year <span id="c">Computer Science </span>student at <span id="c">Toronto Metropolitan University</span> with a passion for Software Engineering and developing technological tools to innovate the world.
 
 <span id="a">furrukh@</span>@<span id="a">portofolio</span>:~$ cat experience.txt
+- Automating and AI-engineering at <span id="b">OPTrust</span>
 - Developing full stack solutions at <span id="b">Ontario Ministry of Treasury Board Secreteriat</span>
 - Engineering supply chain microservices at <span id="b">Loblaw Companies Limited</span>
 - Performing data analysis and research at <span id="b">Builder Lynx</span>
